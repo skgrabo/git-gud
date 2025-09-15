@@ -29,3 +29,10 @@ p {
 a {
     font-family: 'Nunito', sans-serif;
 }
+.flex-container {
+						display: flex;
+						/* Optional: Add space between items */
+						gap: 20px; 
+						/* Optional: Align items horizontally */
+						justify-content: center; 
+}
